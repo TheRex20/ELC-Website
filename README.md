@@ -59,9 +59,9 @@ Everything you need to know about the ELC program.
   <h4>ISELP however, is basically the pathway to ELC, it helps improve characteristics such as the ones listed in the <a href="#paraThree">"Objective"</a> section of this website/article. It is provided in every Peel school.</h4>
   <h4>"ELCs are a Special Education placement option for students whose needs require extensive programming support and differentiated instruction beyond mainstream class programming or the In School Enhanced Learning Program (ISELP).", written on the official BYOD(Paired with Peel) website. ​</h4>
   
+  
   <h3 id="paraSix">Final Statement of all ELC Classes</h3>
-
-<h4>So to conclude, I think we should all try to get accepted into the ELC program.</h4>
+<h4>So to conclude, I think we should all try to get accepted into the ELC program as it obviously has many positive reasons and advantages than a normal class, but do not think I am saying that normal classes are bad. I am just trying to inform everyone about the ELC Program. Thanks for reading!</h4>
   
   </body>
 
