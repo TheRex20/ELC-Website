@@ -9,7 +9,7 @@
   </head>
 <body>
     Everything you need to know about the ELC program
-  <li>Website Created By Ritvir Bhangu</li>
+  <li>Website Created By RB-CODER-20</li>
   <li>Credit to Github for website platform</li>
    <link href="style.css" rel="stylesheet" type="text/css" />
   <h3>Table of Contents</h3>
