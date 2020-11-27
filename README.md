@@ -40,7 +40,7 @@
 <h4>Just because we are an enhanced learning class, does not mean we do not follow the rules. Some of the basic and crucial rules that ELC should follow like a regular class are:</h4>
 <li>No use of offensive language such as swear words</li>
 <li>No harmful activity such as fighting or hitting</li>
-<li>No bullying in <em><strong>any</em></strong> form</li>
+<li>No bullying in any form</li>
 <li>No lying and cheating</li>
 <li>No using materials as weapons</li>
 <li>No using devices for unappropriate uses</li>
@@ -59,5 +59,4 @@
 
 <h4>In conclusion, I think we should all try to get accepted into the ELC program as it obviously has greater advantages for whomever are in the programn. Thanks for reading!</h4>
   
-  </body>
-</html
+
