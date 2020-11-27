@@ -57,6 +57,5 @@
   
   <h3 id="paraSix">Final Statement of all ELC Classes</h3>
 
-<h4>In conclusion, I think we should all try to get accepted into the ELC program as it obviously has greater advantages for whomever are in the programn. Thanks for reading!</h4>
-  <body>
-</html>
+<h4>In conclusion, I think we should all try to get accepted into the ELC program as it obviously has greater advantages for whomever are in the program. Thanks for reading!</h4>
+  </body>
